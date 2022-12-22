@@ -5,8 +5,7 @@ A simple GPT-3 chatbot NOT CHATGPT
 I was bored. I do plan on updating this
 
 ## Prerequisites
-openai PIP package
-tkinter PIP package
+openai AND tkinter PIP package
 
 an openai API_KEY
 
